@@ -1,0 +1,94 @@
+C:\Users\Maty\source\repos\Trabajo 2\Trabajo 2\bin\Debug\Trabajo 2.exe.config
+C:\Users\Maty\source\repos\Trabajo 2\Trabajo 2\bin\Debug\Trabajo 2.exe
+C:\Users\Maty\source\repos\Trabajo 2\Trabajo 2\bin\Debug\Trabajo 2.pdb
+C:\Users\Maty\source\repos\Trabajo 2\Trabajo 2\bin\Debug\TrabajoBL.dll
+C:\Users\Maty\source\repos\Trabajo 2\Trabajo 2\bin\Debug\TrabajoBOL.dll
+C:\Users\Maty\source\repos\Trabajo 2\Trabajo 2\bin\Debug\TrabajoDal.dll
+C:\Users\Maty\source\repos\Trabajo 2\Trabajo 2\bin\Debug\TrabajoBL.pdb
+C:\Users\Maty\source\repos\Trabajo 2\Trabajo 2\bin\Debug\TrabajoBOL.pdb
+C:\Users\Maty\source\repos\Trabajo 2\Trabajo 2\bin\Debug\TrabajoDal.pdb
+C:\Users\Maty\source\repos\Trabajo 2\Trabajo 2\obj\Debug\Trabajo 2.csproj.AssemblyReference.cache
+C:\Users\Maty\source\repos\Trabajo 2\Trabajo 2\obj\Debug\Trabajo_2.Alumno.resources
+C:\Users\Maty\source\repos\Trabajo 2\Trabajo 2\obj\Debug\Trabajo_2.Inicio.resources
+C:\Users\Maty\source\repos\Trabajo 2\Trabajo 2\obj\Debug\Trabajo_2.Properties.Resources.resources
+C:\Users\Maty\source\repos\Trabajo 2\Trabajo 2\obj\Debug\Trabajo 2.csproj.GenerateResource.cache
+C:\Users\Maty\source\repos\Trabajo 2\Trabajo 2\obj\Debug\Trabajo 2.csproj.CoreCompileInputs.cache
+C:\Users\Maty\source\repos\Trabajo 2\Trabajo 2\obj\Debug\Trabajo 2.csproj.CopyComplete
+C:\Users\Maty\source\repos\Trabajo 2\Trabajo 2\obj\Debug\Trabajo 2.exe
+C:\Users\Maty\source\repos\Trabajo 2\Trabajo 2\obj\Debug\Trabajo 2.pdb
+C:\Users\Giovv\Desktop\Trabajo 2\Trabajo 2\bin\Debug\Trabajo 2.exe.config
+C:\Users\Giovv\Desktop\Trabajo 2\Trabajo 2\bin\Debug\Trabajo 2.exe
+C:\Users\Giovv\Desktop\Trabajo 2\Trabajo 2\bin\Debug\Trabajo 2.pdb
+C:\Users\Giovv\Desktop\Trabajo 2\Trabajo 2\bin\Debug\TrabajoBL.dll
+C:\Users\Giovv\Desktop\Trabajo 2\Trabajo 2\bin\Debug\TrabajoBOL.dll
+C:\Users\Giovv\Desktop\Trabajo 2\Trabajo 2\bin\Debug\TrabajoDal.dll
+C:\Users\Giovv\Desktop\Trabajo 2\Trabajo 2\bin\Debug\TrabajoBL.pdb
+C:\Users\Giovv\Desktop\Trabajo 2\Trabajo 2\bin\Debug\TrabajoBOL.pdb
+C:\Users\Giovv\Desktop\Trabajo 2\Trabajo 2\bin\Debug\TrabajoDal.pdb
+C:\Users\Giovv\Desktop\Trabajo 2\Trabajo 2\obj\Debug\Trabajo 2.csproj.AssemblyReference.cache
+C:\Users\Giovv\Desktop\Trabajo 2\Trabajo 2\obj\Debug\Trabajo_2.Alumno.resources
+C:\Users\Giovv\Desktop\Trabajo 2\Trabajo 2\obj\Debug\Trabajo_2.Inicio.resources
+C:\Users\Giovv\Desktop\Trabajo 2\Trabajo 2\obj\Debug\Trabajo_2.Properties.Resources.resources
+C:\Users\Giovv\Desktop\Trabajo 2\Trabajo 2\obj\Debug\Trabajo 2.csproj.GenerateResource.cache
+C:\Users\Giovv\Desktop\Trabajo 2\Trabajo 2\obj\Debug\Trabajo 2.csproj.CoreCompileInputs.cache
+C:\Users\Giovv\Desktop\Trabajo 2\Trabajo 2\obj\Debug\Trabajo 2.csproj.Up2Date
+C:\Users\Giovv\Desktop\Trabajo 2\Trabajo 2\obj\Debug\Trabajo 2.exe
+C:\Users\Giovv\Desktop\Trabajo 2\Trabajo 2\obj\Debug\Trabajo 2.pdb
+C:\Users\Giovv\Desktop\Trabajo 2\Trabajo 2\obj\Debug\Trabajo_2.Asignaturas.resources
+C:\Users\Maty\OneDrive\Escritorio\Trabajo2CS-main\Trabajo 2\Trabajo 2\bin\Debug\Trabajo 2.exe.config
+C:\Users\Maty\OneDrive\Escritorio\Trabajo2CS-main\Trabajo 2\Trabajo 2\bin\Debug\Trabajo 2.exe
+C:\Users\Maty\OneDrive\Escritorio\Trabajo2CS-main\Trabajo 2\Trabajo 2\bin\Debug\Trabajo 2.pdb
+C:\Users\Maty\OneDrive\Escritorio\Trabajo2CS-main\Trabajo 2\Trabajo 2\bin\Debug\TrabajoBL.dll
+C:\Users\Maty\OneDrive\Escritorio\Trabajo2CS-main\Trabajo 2\Trabajo 2\bin\Debug\TrabajoBOL.dll
+C:\Users\Maty\OneDrive\Escritorio\Trabajo2CS-main\Trabajo 2\Trabajo 2\bin\Debug\TrabajoDal.dll
+C:\Users\Maty\OneDrive\Escritorio\Trabajo2CS-main\Trabajo 2\Trabajo 2\bin\Debug\TrabajoBL.pdb
+C:\Users\Maty\OneDrive\Escritorio\Trabajo2CS-main\Trabajo 2\Trabajo 2\bin\Debug\TrabajoBOL.pdb
+C:\Users\Maty\OneDrive\Escritorio\Trabajo2CS-main\Trabajo 2\Trabajo 2\bin\Debug\TrabajoDal.pdb
+C:\Users\Maty\OneDrive\Escritorio\Trabajo2CS-main\Trabajo 2\Trabajo 2\obj\Debug\Trabajo 2.csproj.AssemblyReference.cache
+C:\Users\Maty\OneDrive\Escritorio\Trabajo2CS-main\Trabajo 2\Trabajo 2\obj\Debug\Trabajo_2.Alumno.resources
+C:\Users\Maty\OneDrive\Escritorio\Trabajo2CS-main\Trabajo 2\Trabajo 2\obj\Debug\Trabajo_2.Asignaturas.resources
+C:\Users\Maty\OneDrive\Escritorio\Trabajo2CS-main\Trabajo 2\Trabajo 2\obj\Debug\Trabajo_2.Inicio.resources
+C:\Users\Maty\OneDrive\Escritorio\Trabajo2CS-main\Trabajo 2\Trabajo 2\obj\Debug\Trabajo_2.Properties.Resources.resources
+C:\Users\Maty\OneDrive\Escritorio\Trabajo2CS-main\Trabajo 2\Trabajo 2\obj\Debug\Trabajo 2.csproj.GenerateResource.cache
+C:\Users\Maty\OneDrive\Escritorio\Trabajo2CS-main\Trabajo 2\Trabajo 2\obj\Debug\Trabajo 2.csproj.CoreCompileInputs.cache
+C:\Users\Maty\OneDrive\Escritorio\Trabajo2CS-main\Trabajo 2\Trabajo 2\obj\Debug\Trabajo 2.csproj.CopyComplete
+C:\Users\Maty\OneDrive\Escritorio\Trabajo2CS-main\Trabajo 2\Trabajo 2\obj\Debug\Trabajo 2.exe
+C:\Users\Maty\OneDrive\Escritorio\Trabajo2CS-main\Trabajo 2\Trabajo 2\obj\Debug\Trabajo 2.pdb
+C:\Users\Giovv\Desktop\trabajo 3\Trabajo2CS-main\Trabajo 2\Trabajo 2\bin\Debug\Trabajo 2.exe.config
+C:\Users\Giovv\Desktop\trabajo 3\Trabajo2CS-main\Trabajo 2\Trabajo 2\bin\Debug\Trabajo 2.exe
+C:\Users\Giovv\Desktop\trabajo 3\Trabajo2CS-main\Trabajo 2\Trabajo 2\bin\Debug\Trabajo 2.pdb
+C:\Users\Giovv\Desktop\trabajo 3\Trabajo2CS-main\Trabajo 2\Trabajo 2\bin\Debug\TrabajoBL.dll
+C:\Users\Giovv\Desktop\trabajo 3\Trabajo2CS-main\Trabajo 2\Trabajo 2\bin\Debug\TrabajoBOL.dll
+C:\Users\Giovv\Desktop\trabajo 3\Trabajo2CS-main\Trabajo 2\Trabajo 2\bin\Debug\TrabajoDal.dll
+C:\Users\Giovv\Desktop\trabajo 3\Trabajo2CS-main\Trabajo 2\Trabajo 2\bin\Debug\TrabajoBL.pdb
+C:\Users\Giovv\Desktop\trabajo 3\Trabajo2CS-main\Trabajo 2\Trabajo 2\bin\Debug\TrabajoBOL.pdb
+C:\Users\Giovv\Desktop\trabajo 3\Trabajo2CS-main\Trabajo 2\Trabajo 2\bin\Debug\TrabajoDal.pdb
+C:\Users\Giovv\Desktop\trabajo 3\Trabajo2CS-main\Trabajo 2\Trabajo 2\obj\Debug\Trabajo 2.csproj.AssemblyReference.cache
+C:\Users\Giovv\Desktop\trabajo 3\Trabajo2CS-main\Trabajo 2\Trabajo 2\obj\Debug\Trabajo_2.Alumno.resources
+C:\Users\Giovv\Desktop\trabajo 3\Trabajo2CS-main\Trabajo 2\Trabajo 2\obj\Debug\Trabajo_2.Asignaturas.resources
+C:\Users\Giovv\Desktop\trabajo 3\Trabajo2CS-main\Trabajo 2\Trabajo 2\obj\Debug\Trabajo_2.Inicio.resources
+C:\Users\Giovv\Desktop\trabajo 3\Trabajo2CS-main\Trabajo 2\Trabajo 2\obj\Debug\Trabajo_2.Properties.Resources.resources
+C:\Users\Giovv\Desktop\trabajo 3\Trabajo2CS-main\Trabajo 2\Trabajo 2\obj\Debug\Trabajo 2.csproj.GenerateResource.cache
+C:\Users\Giovv\Desktop\trabajo 3\Trabajo2CS-main\Trabajo 2\Trabajo 2\obj\Debug\Trabajo 2.csproj.CoreCompileInputs.cache
+C:\Users\Giovv\Desktop\trabajo 3\Trabajo2CS-main\Trabajo 2\Trabajo 2\obj\Debug\Trabajo 2.csproj.Up2Date
+C:\Users\Giovv\Desktop\trabajo 3\Trabajo2CS-main\Trabajo 2\Trabajo 2\obj\Debug\Trabajo 2.exe
+C:\Users\Giovv\Desktop\trabajo 3\Trabajo2CS-main\Trabajo 2\Trabajo 2\obj\Debug\Trabajo 2.pdb
+C:\Users\Alumnos\Desktop\Trabajo3CS-main\Trabajo3CS-main\Trabajo 2\Trabajo 2\obj\Debug\Trabajo 2.csproj.AssemblyReference.cache
+C:\Users\Alumnos\Desktop\Trabajo3CS-main\Trabajo3CS-main\Trabajo 2\Trabajo 2\obj\Debug\Trabajo_2.Alumno.resources
+C:\Users\Alumnos\Desktop\Trabajo3CS-main\Trabajo3CS-main\Trabajo 2\Trabajo 2\obj\Debug\Trabajo_2.Asignaturas.resources
+C:\Users\Alumnos\Desktop\Trabajo3CS-main\Trabajo3CS-main\Trabajo 2\Trabajo 2\obj\Debug\Trabajo_2.Inicio.resources
+C:\Users\Alumnos\Desktop\Trabajo3CS-main\Trabajo3CS-main\Trabajo 2\Trabajo 2\obj\Debug\Trabajo_2.Properties.Resources.resources
+C:\Users\Alumnos\Desktop\Trabajo3CS-main\Trabajo3CS-main\Trabajo 2\Trabajo 2\obj\Debug\Trabajo 2.csproj.GenerateResource.cache
+C:\Users\Alumnos\Desktop\Trabajo3CS-main\Trabajo3CS-main\Trabajo 2\Trabajo 2\obj\Debug\Trabajo 2.csproj.CoreCompileInputs.cache
+C:\Users\Alumnos\Desktop\Trabajo3CS-main\Trabajo3CS-main\Trabajo 2\Trabajo 2\bin\Debug\Trabajo 2.exe.config
+C:\Users\Alumnos\Desktop\Trabajo3CS-main\Trabajo3CS-main\Trabajo 2\Trabajo 2\bin\Debug\Trabajo 2.exe
+C:\Users\Alumnos\Desktop\Trabajo3CS-main\Trabajo3CS-main\Trabajo 2\Trabajo 2\bin\Debug\Trabajo 2.pdb
+C:\Users\Alumnos\Desktop\Trabajo3CS-main\Trabajo3CS-main\Trabajo 2\Trabajo 2\bin\Debug\TrabajoBL.dll
+C:\Users\Alumnos\Desktop\Trabajo3CS-main\Trabajo3CS-main\Trabajo 2\Trabajo 2\bin\Debug\TrabajoBOL.dll
+C:\Users\Alumnos\Desktop\Trabajo3CS-main\Trabajo3CS-main\Trabajo 2\Trabajo 2\bin\Debug\TrabajoDal.dll
+C:\Users\Alumnos\Desktop\Trabajo3CS-main\Trabajo3CS-main\Trabajo 2\Trabajo 2\bin\Debug\TrabajoBL.pdb
+C:\Users\Alumnos\Desktop\Trabajo3CS-main\Trabajo3CS-main\Trabajo 2\Trabajo 2\bin\Debug\TrabajoBOL.pdb
+C:\Users\Alumnos\Desktop\Trabajo3CS-main\Trabajo3CS-main\Trabajo 2\Trabajo 2\bin\Debug\TrabajoDal.pdb
+C:\Users\Alumnos\Desktop\Trabajo3CS-main\Trabajo3CS-main\Trabajo 2\Trabajo 2\obj\Debug\Trabajo 2.csproj.CopyComplete
+C:\Users\Alumnos\Desktop\Trabajo3CS-main\Trabajo3CS-main\Trabajo 2\Trabajo 2\obj\Debug\Trabajo 2.exe
+C:\Users\Alumnos\Desktop\Trabajo3CS-main\Trabajo3CS-main\Trabajo 2\Trabajo 2\obj\Debug\Trabajo 2.pdb

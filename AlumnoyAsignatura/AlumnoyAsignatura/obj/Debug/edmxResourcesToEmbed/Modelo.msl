@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="ModelStoreContainer" CdmEntityContainer="Trabajo2_RemotoEntities">
+    <EntitySetMapping Name="Alumnoes">
+      <EntityTypeMapping TypeName="Model.Alumno">
+        <MappingFragment StoreEntitySet="Alumno">
+          <ScalarProperty Name="IDAlumno" ColumnName="IDAlumno" />
+          <ScalarProperty Name="Nombre" ColumnName="Nombre" />
+          <ScalarProperty Name="ApellidoPAt" ColumnName="ApellidoPAt" />
+          <ScalarProperty Name="ApellidoMat" ColumnName="ApellidoMat" />
+          <ScalarProperty Name="Email" ColumnName="Email" />
+          <ScalarProperty Name="NumeroMatricula" ColumnName="NumeroMatricula" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Asignaturas">
+      <EntityTypeMapping TypeName="Model.Asignatura">
+        <MappingFragment StoreEntitySet="Asignatura">
+          <ScalarProperty Name="IDAsignatura" ColumnName="IDAsignatura" />
+          <ScalarProperty Name="NombreAsignatura" ColumnName="NombreAsignatura" />
+          <ScalarProperty Name="Creditos" ColumnName="Creditos" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

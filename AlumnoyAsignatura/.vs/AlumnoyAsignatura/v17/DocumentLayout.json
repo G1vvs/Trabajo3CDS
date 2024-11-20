@@ -1,0 +1,68 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Giovv\\Desktop\\trabajo 3\\AlumnoyAsignatura\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A7D9D8F5-01AF-4663-9E50-13FBC09B6B9A}|AlumnoyAsignatura\\AlumnoyAsignatura.csproj|c:\\users\\giovv\\desktop\\trabajo 3\\alumnoyasignatura\\alumnoyasignatura\\miws.asmx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7D9D8F5-01AF-4663-9E50-13FBC09B6B9A}|AlumnoyAsignatura\\AlumnoyAsignatura.csproj|solutionrelative:alumnoyasignatura\\miws.asmx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7D9D8F5-01AF-4663-9E50-13FBC09B6B9A}|AlumnoyAsignatura\\AlumnoyAsignatura.csproj|C:\\Users\\Giovv\\Desktop\\trabajo 3\\AlumnoyAsignatura\\alumnoyasignatura\\modelo.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|",
+      "RelativeMoniker": "D:0:0:{A7D9D8F5-01AF-4663-9E50-13FBC09B6B9A}|AlumnoyAsignatura\\AlumnoyAsignatura.csproj|solutionrelative:alumnoyasignatura\\modelo.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7D9D8F5-01AF-4663-9E50-13FBC09B6B9A}|AlumnoyAsignatura\\AlumnoyAsignatura.csproj|C:\\Users\\Giovv\\Desktop\\trabajo 3\\AlumnoyAsignatura\\alumnoyasignatura\\modelo.context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7D9D8F5-01AF-4663-9E50-13FBC09B6B9A}|AlumnoyAsignatura\\AlumnoyAsignatura.csproj|solutionrelative:alumnoyasignatura\\modelo.context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Modelo.edmx [Diagram1]",
+              "DocumentMoniker": "C:\\Users\\Giovv\\Desktop\\trabajo 3\\AlumnoyAsignatura\\AlumnoyAsignatura\\Modelo.edmx",
+              "RelativeDocumentMoniker": "AlumnoyAsignatura\\Modelo.edmx",
+              "ToolTip": "C:\\Users\\Giovv\\source\\repos\\AlumnoyAsignatura\\AlumnoyAsignatura\\Modelo.edmx [Diagram1]",
+              "RelativeToolTip": "..\\..\\..\\source\\repos\\AlumnoyAsignatura\\AlumnoyAsignatura\\Modelo.edmx [Diagram1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001116|",
+              "WhenOpened": "2024-11-20T06:49:11.225Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Modelo.Context.cs",
+              "DocumentMoniker": "C:\\Users\\Giovv\\Desktop\\trabajo 3\\AlumnoyAsignatura\\AlumnoyAsignatura\\Modelo.Context.cs",
+              "RelativeDocumentMoniker": "AlumnoyAsignatura\\Modelo.Context.cs",
+              "ToolTip": "C:\\Users\\Giovv\\Desktop\\trabajo 3\\AlumnoyAsignatura\\AlumnoyAsignatura\\Modelo.Context.cs",
+              "RelativeToolTip": "AlumnoyAsignatura\\Modelo.Context.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAA3wBwAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T05:57:38.305Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MiWS.asmx.cs",
+              "DocumentMoniker": "C:\\Users\\Giovv\\Desktop\\trabajo 3\\AlumnoyAsignatura\\AlumnoyAsignatura\\MiWS.asmx.cs",
+              "RelativeDocumentMoniker": "AlumnoyAsignatura\\MiWS.asmx.cs",
+              "ToolTip": "C:\\Users\\Giovv\\Desktop\\trabajo 3\\AlumnoyAsignatura\\AlumnoyAsignatura\\MiWS.asmx.cs",
+              "RelativeToolTip": "AlumnoyAsignatura\\MiWS.asmx.cs",
+              "ViewState": "AgIAADMAAAAAAAAAAAAIwDoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T02:48:22.211Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

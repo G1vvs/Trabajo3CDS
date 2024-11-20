@@ -1,0 +1,45 @@
+C:\Users\Maty\source\repos\Trabajo 2\TrabajoDal\bin\Debug\TrabajoDal.dll
+C:\Users\Maty\source\repos\Trabajo 2\TrabajoDal\bin\Debug\TrabajoDal.pdb
+C:\Users\Maty\source\repos\Trabajo 2\TrabajoDal\bin\Debug\TrabajoBOL.dll
+C:\Users\Maty\source\repos\Trabajo 2\TrabajoDal\bin\Debug\TrabajoBOL.pdb
+C:\Users\Maty\source\repos\Trabajo 2\TrabajoDal\obj\Debug\TrabajoDal.csproj.AssemblyReference.cache
+C:\Users\Maty\source\repos\Trabajo 2\TrabajoDal\obj\Debug\TrabajoDal.csproj.CoreCompileInputs.cache
+C:\Users\Maty\source\repos\Trabajo 2\TrabajoDal\obj\Debug\TrabajoDal.csproj.CopyComplete
+C:\Users\Maty\source\repos\Trabajo 2\TrabajoDal\obj\Debug\TrabajoDal.dll
+C:\Users\Maty\source\repos\Trabajo 2\TrabajoDal\obj\Debug\TrabajoDal.pdb
+C:\Users\Giovv\Desktop\Trabajo 2\TrabajoDal\bin\Debug\TrabajoDal.dll
+C:\Users\Giovv\Desktop\Trabajo 2\TrabajoDal\bin\Debug\TrabajoDal.pdb
+C:\Users\Giovv\Desktop\Trabajo 2\TrabajoDal\bin\Debug\TrabajoBOL.dll
+C:\Users\Giovv\Desktop\Trabajo 2\TrabajoDal\bin\Debug\TrabajoBOL.pdb
+C:\Users\Giovv\Desktop\Trabajo 2\TrabajoDal\obj\Debug\TrabajoDAL.csproj.AssemblyReference.cache
+C:\Users\Giovv\Desktop\Trabajo 2\TrabajoDal\obj\Debug\TrabajoDAL.csproj.CoreCompileInputs.cache
+C:\Users\Giovv\Desktop\Trabajo 2\TrabajoDal\obj\Debug\TrabajoDAL.csproj.Up2Date
+C:\Users\Giovv\Desktop\Trabajo 2\TrabajoDal\obj\Debug\TrabajoDal.dll
+C:\Users\Giovv\Desktop\Trabajo 2\TrabajoDal\obj\Debug\TrabajoDal.pdb
+C:\Users\Maty\OneDrive\Escritorio\Trabajo2CS-main\Trabajo 2\TrabajoDal\bin\Debug\TrabajoDal.dll
+C:\Users\Maty\OneDrive\Escritorio\Trabajo2CS-main\Trabajo 2\TrabajoDal\bin\Debug\TrabajoDal.pdb
+C:\Users\Maty\OneDrive\Escritorio\Trabajo2CS-main\Trabajo 2\TrabajoDal\bin\Debug\TrabajoBOL.dll
+C:\Users\Maty\OneDrive\Escritorio\Trabajo2CS-main\Trabajo 2\TrabajoDal\bin\Debug\TrabajoBOL.pdb
+C:\Users\Maty\OneDrive\Escritorio\Trabajo2CS-main\Trabajo 2\TrabajoDal\obj\Debug\TrabajoDAL.csproj.AssemblyReference.cache
+C:\Users\Maty\OneDrive\Escritorio\Trabajo2CS-main\Trabajo 2\TrabajoDal\obj\Debug\TrabajoDAL.csproj.CoreCompileInputs.cache
+C:\Users\Maty\OneDrive\Escritorio\Trabajo2CS-main\Trabajo 2\TrabajoDal\obj\Debug\TrabajoDAL.csproj.CopyComplete
+C:\Users\Maty\OneDrive\Escritorio\Trabajo2CS-main\Trabajo 2\TrabajoDal\obj\Debug\TrabajoDal.dll
+C:\Users\Maty\OneDrive\Escritorio\Trabajo2CS-main\Trabajo 2\TrabajoDal\obj\Debug\TrabajoDal.pdb
+C:\Users\Giovv\Desktop\trabajo 3\Trabajo2CS-main\Trabajo 2\TrabajoDal\bin\Debug\TrabajoDal.dll
+C:\Users\Giovv\Desktop\trabajo 3\Trabajo2CS-main\Trabajo 2\TrabajoDal\bin\Debug\TrabajoDal.pdb
+C:\Users\Giovv\Desktop\trabajo 3\Trabajo2CS-main\Trabajo 2\TrabajoDal\bin\Debug\TrabajoBOL.dll
+C:\Users\Giovv\Desktop\trabajo 3\Trabajo2CS-main\Trabajo 2\TrabajoDal\bin\Debug\TrabajoBOL.pdb
+C:\Users\Giovv\Desktop\trabajo 3\Trabajo2CS-main\Trabajo 2\TrabajoDal\obj\Debug\TrabajoDAL.csproj.AssemblyReference.cache
+C:\Users\Giovv\Desktop\trabajo 3\Trabajo2CS-main\Trabajo 2\TrabajoDal\obj\Debug\TrabajoDAL.csproj.CoreCompileInputs.cache
+C:\Users\Giovv\Desktop\trabajo 3\Trabajo2CS-main\Trabajo 2\TrabajoDal\obj\Debug\TrabajoDAL.csproj.Up2Date
+C:\Users\Giovv\Desktop\trabajo 3\Trabajo2CS-main\Trabajo 2\TrabajoDal\obj\Debug\TrabajoDal.dll
+C:\Users\Giovv\Desktop\trabajo 3\Trabajo2CS-main\Trabajo 2\TrabajoDal\obj\Debug\TrabajoDal.pdb
+C:\Users\Alumnos\Desktop\Trabajo3CS-main\Trabajo3CS-main\Trabajo 2\TrabajoDal\obj\Debug\TrabajoDAL.csproj.AssemblyReference.cache
+C:\Users\Alumnos\Desktop\Trabajo3CS-main\Trabajo3CS-main\Trabajo 2\TrabajoDal\obj\Debug\TrabajoDAL.csproj.CoreCompileInputs.cache
+C:\Users\Alumnos\Desktop\Trabajo3CS-main\Trabajo3CS-main\Trabajo 2\TrabajoDal\bin\Debug\TrabajoDal.dll
+C:\Users\Alumnos\Desktop\Trabajo3CS-main\Trabajo3CS-main\Trabajo 2\TrabajoDal\bin\Debug\TrabajoDal.pdb
+C:\Users\Alumnos\Desktop\Trabajo3CS-main\Trabajo3CS-main\Trabajo 2\TrabajoDal\bin\Debug\TrabajoBOL.dll
+C:\Users\Alumnos\Desktop\Trabajo3CS-main\Trabajo3CS-main\Trabajo 2\TrabajoDal\bin\Debug\TrabajoBOL.pdb
+C:\Users\Alumnos\Desktop\Trabajo3CS-main\Trabajo3CS-main\Trabajo 2\TrabajoDal\obj\Debug\TrabajoDAL.csproj.CopyComplete
+C:\Users\Alumnos\Desktop\Trabajo3CS-main\Trabajo3CS-main\Trabajo 2\TrabajoDal\obj\Debug\TrabajoDal.dll
+C:\Users\Alumnos\Desktop\Trabajo3CS-main\Trabajo3CS-main\Trabajo 2\TrabajoDal\obj\Debug\TrabajoDal.pdb

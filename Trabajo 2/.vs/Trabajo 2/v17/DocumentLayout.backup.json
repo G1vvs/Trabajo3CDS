@@ -1,0 +1,119 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Giovv\\Desktop\\trabajo 3\\Trabajo2CS-main\\Trabajo 2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EF8E3881-EBD3-401D-9588-691D16960537}|Trabajo 2\\Trabajo 2.csproj|c:\\users\\giovv\\desktop\\trabajo 3\\trabajo2cs-main\\trabajo 2\\trabajo 2\\asignaturas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF8E3881-EBD3-401D-9588-691D16960537}|Trabajo 2\\Trabajo 2.csproj|solutionrelative:trabajo 2\\asignaturas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF8E3881-EBD3-401D-9588-691D16960537}|Trabajo 2\\Trabajo 2.csproj|C:\\Users\\Giovv\\Desktop\\trabajo 3\\Trabajo2CS-main\\Trabajo 2\\trabajo 2\\alumno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF8E3881-EBD3-401D-9588-691D16960537}|Trabajo 2\\Trabajo 2.csproj|solutionrelative:trabajo 2\\alumno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF8E3881-EBD3-401D-9588-691D16960537}|Trabajo 2\\Trabajo 2.csproj|C:\\Users\\Giovv\\Desktop\\trabajo 3\\Trabajo2CS-main\\Trabajo 2\\trabajo 2\\asignaturas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{EF8E3881-EBD3-401D-9588-691D16960537}|Trabajo 2\\Trabajo 2.csproj|solutionrelative:trabajo 2\\asignaturas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF8E3881-EBD3-401D-9588-691D16960537}|Trabajo 2\\Trabajo 2.csproj|c:\\users\\giovv\\desktop\\trabajo 3\\trabajo2cs-main\\trabajo 2\\trabajo 2\\asignaturas.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF8E3881-EBD3-401D-9588-691D16960537}|Trabajo 2\\Trabajo 2.csproj|solutionrelative:trabajo 2\\asignaturas.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF8E3881-EBD3-401D-9588-691D16960537}|Trabajo 2\\Trabajo 2.csproj|C:\\Users\\Giovv\\Desktop\\trabajo 3\\Trabajo2CS-main\\Trabajo 2\\trabajo 2\\alumno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{EF8E3881-EBD3-401D-9588-691D16960537}|Trabajo 2\\Trabajo 2.csproj|solutionrelative:trabajo 2\\alumno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF8E3881-EBD3-401D-9588-691D16960537}|Trabajo 2\\Trabajo 2.csproj|C:\\Users\\Giovv\\Desktop\\trabajo 3\\Trabajo2CS-main\\Trabajo 2\\trabajo 2\\inicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{EF8E3881-EBD3-401D-9588-691D16960537}|Trabajo 2\\Trabajo 2.csproj|solutionrelative:trabajo 2\\inicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Asignaturas.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Giovv\\Desktop\\trabajo 3\\Trabajo2CS-main\\Trabajo 2\\Trabajo 2\\Asignaturas.Designer.cs",
+              "RelativeDocumentMoniker": "Trabajo 2\\Asignaturas.Designer.cs",
+              "ToolTip": "C:\\Users\\Giovv\\Desktop\\trabajo 3\\Trabajo2CS-main\\Trabajo 2\\Trabajo 2\\Asignaturas.Designer.cs",
+              "RelativeToolTip": "Trabajo 2\\Asignaturas.Designer.cs",
+              "ViewState": "AgIAAD0AAAAAAAAAAADgv0cAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T05:49:23.146Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Asignaturas.cs",
+              "DocumentMoniker": "C:\\Users\\Giovv\\Desktop\\trabajo 3\\Trabajo2CS-main\\Trabajo 2\\Trabajo 2\\Asignaturas.cs",
+              "RelativeDocumentMoniker": "Trabajo 2\\Asignaturas.cs",
+              "ToolTip": "C:\\Users\\Giovv\\Desktop\\trabajo 3\\Trabajo2CS-main\\Trabajo 2\\Trabajo 2\\Asignaturas.cs",
+              "RelativeToolTip": "Trabajo 2\\Asignaturas.cs",
+              "ViewState": "AgIAAJgAAAAAAAAAAAAYwKUAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T01:02:11.948Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Alumno.cs",
+              "DocumentMoniker": "C:\\Users\\Giovv\\Desktop\\trabajo 3\\Trabajo2CS-main\\Trabajo 2\\Trabajo 2\\Alumno.cs",
+              "RelativeDocumentMoniker": "Trabajo 2\\Alumno.cs",
+              "ToolTip": "C:\\Users\\Giovv\\Desktop\\trabajo 3\\Trabajo2CS-main\\Trabajo 2\\Trabajo 2\\Alumno.cs",
+              "RelativeToolTip": "Trabajo 2\\Alumno.cs",
+              "ViewState": "AgIAAMIAAAAAAAAAAAAswNQAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T01:02:12.502Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Inicio.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Giovv\\Desktop\\trabajo 3\\Trabajo2CS-main\\Trabajo 2\\Trabajo 2\\Inicio.cs",
+              "RelativeDocumentMoniker": "Trabajo 2\\Inicio.cs",
+              "ToolTip": "C:\\Users\\Giovv\\Desktop\\trabajo 3\\Trabajo2CS-main\\Trabajo 2\\Trabajo 2\\Inicio.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Trabajo 2\\Inicio.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T01:02:12.122Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Alumno.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Giovv\\Desktop\\trabajo 3\\Trabajo2CS-main\\Trabajo 2\\Trabajo 2\\Alumno.cs",
+              "RelativeDocumentMoniker": "Trabajo 2\\Alumno.cs",
+              "ToolTip": "C:\\Users\\Giovv\\Desktop\\trabajo 3\\Trabajo2CS-main\\Trabajo 2\\Trabajo 2\\Alumno.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Trabajo 2\\Alumno.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T01:02:12.887Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Asignaturas.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Giovv\\Desktop\\trabajo 3\\Trabajo2CS-main\\Trabajo 2\\Trabajo 2\\Asignaturas.cs",
+              "RelativeDocumentMoniker": "Trabajo 2\\Asignaturas.cs",
+              "ToolTip": "C:\\Users\\Giovv\\Desktop\\trabajo 3\\Trabajo2CS-main\\Trabajo 2\\Trabajo 2\\Asignaturas.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Trabajo 2\\Asignaturas.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T01:02:12.889Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
